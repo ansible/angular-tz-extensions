@@ -12,7 +12,7 @@
     "url": "git+ssh://git@github.com/leigh-johnson/angular-tz-extensions.git"
   },
   "dependencies": {
-    "angular": "1.4.7",
+    "angular": "1.4.14",
     "angular-filters": "^1.1.2",
     "jquery": "^3.1.0",
     "jstimezonedetect": "1.0.5",
