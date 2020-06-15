@@ -1,16 +1,16 @@
 {
   "name": "angular-tz-extensions",
   "description": "Extend date objects to include timezone",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "author": {
     "name": "Chris Houseknecht",
     "email": "chouse@ansbile.com"
   },
   "main": "index.js",
   "dependencies": {
-    "angular": "~1.7.2",
+    "angular": "^1.7.9",
     "angular-filters": "^1.1.2",
-    "jquery": "^3.1.0",
+    "jquery": "^3.5.1",
     "jstimezonedetect": "1.0.5",
     "timezone-js": "ansible/timezone-js#0.4.14"
   },
